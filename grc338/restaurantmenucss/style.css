@@ -1,0 +1,24 @@
+h1 {
+	color: rgb(128, 0, 0); 
+	background-color: rgb(255, 255, 255);
+	}
+
+body {
+	background-color: rgb(240, 234, 240);
+	}
+	
+p {
+	color: rgb(0, 0, 139);
+	}
+	
+h2{
+	background-color: white;
+	color: rgb(128, 0, 0);
+	 }
+	 
+h3 {
+background-color: blue;
+color: white;}
+
+h4{
+	color:rgb(128, 0, 0);}
